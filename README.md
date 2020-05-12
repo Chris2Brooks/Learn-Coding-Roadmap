@@ -10,5 +10,6 @@ My personal roadmap and resource collector for my code learning journey. This wi
 - [ ] Django for Professionals
 - [ ] Django for API's
 - [ ] Translation
+- [ ] freeCodeCamp Python videos on YouTube
 
-
+https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/
