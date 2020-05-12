@@ -3,11 +3,12 @@ My personal roadmap and resource collector for my code learning journey. This wi
 
 # Things to focus on
 
-[] CodeTriage
-[] EdX - Harvard CS50 course
-[] FreeCodeCamp
-[] Django for Beginners
-[] Django for Professionals
-[] Django for API's
+- [ ] CodeTriage
+- [ ] EdX - Harvard CS50 course
+- [ ] FreeCodeCamp
+- [ ] Django for Beginners
+- [ ] Django for Professionals
+- [ ] Django for API's
+- [ ] Translation
 
 
